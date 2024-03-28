@@ -53,7 +53,7 @@ this commant will create a pants.toml file similiar to this:
 pants_version = "2.19.1"
 ```
 
-update it as this:
+Update it like this:
 
 ```
 [GLOBAL]
