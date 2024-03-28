@@ -8,7 +8,7 @@ Project structure
 │   └── python <folder name ref to python projects>
 │       ├── BUILD
 │       ├── poetry.lock <generate after install some dep e.g: poetry add requests>
-│       └── pyproject.toml <generate by poetry init>
+│       └── pyproject.toml <generate by poetry init - in this folder>
 ├── pants.toml
 ├── src
 │   └── python
